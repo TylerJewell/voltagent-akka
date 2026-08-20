@@ -43,9 +43,9 @@ specification in `akka-specify-harness` under `voltagent-port/bench/REPORT.md`.
 
 ## What it took to build
 
-⏱️ **2.5 hours** from the first command to the published repository, **1.2** of them active<br>
-💬 **515** exchanges with the model<br>
-✍️ **272,148** tokens written by the model, **83,470,807** counting everything sent and re-sent<br>
+⏱️ **2.3 hours** from the first command to the published repository, **1.0** of them active<br>
+💬 **581** exchanges with the model<br>
+✍️ **299,477** tokens written by the model, **102,578,732** counting everything sent and re-sent<br>
 🙋 **0** questions to a human<br>
 🧪 **16** tests
 
